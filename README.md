@@ -93,3 +93,5 @@ This repository contains a Power BI dashboard used to monitor and analyze compla
 ![Leaderboard Page](screenshots/page1_leaderboard.png)
 ![Category Page](screenshots/page2_categories.png)
 ![Employee Performance Page](screenshots/page3_employee_perf.png)
+
+MIT License — free to use and modify
