@@ -90,8 +90,10 @@ This repository contains a Power BI dashboard used to monitor and analyze compla
 > You can insert screenshots of the dashboard pages here.
 
 ```markdown
-![Leaderboard Page](screenshots/page1_leaderboard.png)
-![Category Page](screenshots/page2_categories.png)
-![Employee Performance Page](screenshots/page3_employee_perf.png)
+![Overview Page](Screenshots/overview.png)
+![Category Page](Screenshots/categories.png)
+![Employee Performance Page](Screenshots/Leaderboard.png)
+![Vendor Performance Page](Screenshots/Vendors.png)
+![Tabular View Page](Screenshots/Tabular.png)
 
 MIT License — free to use and modify
